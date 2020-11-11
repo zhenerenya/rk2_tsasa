@@ -12,9 +12,11 @@
  
 ## Результат
 
-![alt text](screens/screen01.png "Results"")
-![alt text](screens/screen02.png "Results"")
-![alt text](screens/screen03.png "Results"")
+![alt text](screens/screen01.png)
+
+![alt text](screens/screen02.png)
+
+![alt text](screens/screen03.png)
 Вероятность мутации 25%.
 
 Количество точек 6.
