@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enya/workspace/tsisa/rk2_tsasa/main.cpp
+iostream
+-
+math.h
+/home/enya/workspace/tsisa/rk2_tsasa/math.h
+vector
+-
+set
+-
+string
+-
+iomanip
+-
+
